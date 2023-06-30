@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27911522832",
+    "project_id": "loginandsignupauthentica-5b480",
+    "storage_bucket": "loginandsignupauthentica-5b480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27911522832:android:b581c6ae3caea9f22cd895",
+        "android_client_info": {
+          "package_name": "com.example.login_and_signup_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27911522832-g9petnbitfej70gjujn7qsvdda9fguo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBoS8PPNwze9WAU9-SCovy6IgwJIwfHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27911522832-g9petnbitfej70gjujn7qsvdda9fguo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
